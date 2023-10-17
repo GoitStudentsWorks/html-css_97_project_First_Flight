@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "vite build --base=/html-css_97_project_First_Flight/",
     "preview": "vite preview"
+    
   },
   "devDependencies": {
     "vite": "^4.0.5",
